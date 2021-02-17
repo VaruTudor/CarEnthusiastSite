@@ -1,0 +1,4 @@
+How car suspension works
+There are various ways of attaching the wheels of the car so that they can move up and down on their springs and dampers, and do so with as little change as possible in the distance between adjacent wheels or in the near-vertical angle of the tyres to the road.
+
+The front wheels must be free to pivot on their steering swivels. The driven wheels, whether front or rear, must also be free to rotate with the drive shafts.

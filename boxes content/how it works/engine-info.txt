@@ -1,0 +1,11 @@
+The engine
+The simplest and most common type of engine comprises four vertical cylinders close together in a row. This is known as an in-line engine. Cars with capacities exceeding 2,000cc often have six cylinders in line.
+The engine is the heart of your car. It is a complex machine built to convert heat from burning gas into the force that turns the road wheels.
+
+The chain of reactions which achieve that objective is set in motion by a spark, which ignites a mixture of petrol vapour and compressed air inside a momentarily sealed cylinder and causes it to burn rapidly. That is why the machine is called an internal combustion engine. As the mixture burns it expands, providing power to drive the car.
+
+To withstand its heavy workload, the engine must be a robust structure. It consists of two basic parts: the lower, heavier section is the cylinder block, a casing for the engine's main moving parts; the detachable upper cover is the cylinder head.
+
+The cylinder head contains valve-controlled passages through which the air and fuel mixture enters the cylinders, and others through which the gases produced by their combustion are expelled.
+
+The block houses the crankshaft, which converts the reciprocating motion of the pistons into rotary motion at the crankshaft. Often the block also houses the camshaft, which operates mechanisms that open and close the valves in the cylinder head. Sometimes the camshaft is in the head or mounted above it.

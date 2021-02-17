@@ -1,0 +1,141 @@
+body{
+  background: #9F9C99; /*sharkskin*/
+}
+
+.text{
+  color: #9E1030;
+}
+
+.text2{
+ color: #9E1030;
+ font-size: 22px;
+}
+
+.box1 {
+  width: 100px;
+  padding: 20px;
+  float: center;
+  background-color: #9F9C99;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.box2 {
+  width: 250px;
+  padding: 30px;
+  float: center;
+  background-color: #9F9C99;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.box3 {
+  width: 400px;
+  padding: 30px;
+  float: center;
+  background-color: #9F9C99;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.parallax1 { 
+  /* The image used */
+  background-image: url("land 1.jpg");
+  opacity: 0.3;
+
+  /* Set a specific height */
+  height: 450px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 { 
+  /* The image used */
+  background-image: url("land 2.jpg");
+  opacity: 0.3;
+  /* Set a specific height */
+  height: 650px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 { 
+  /* The image used */
+  background-image: url("land 8.jpg");
+  opacity: 0.3;
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 { 
+  /* The image used */
+  background-image: url("land 4.jpg");
+  opacity: 0.3;
+  /* Set a specific height */
+  height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax5 { 
+  /* The image used */
+  background-image: url("land 7.jpg");
+  opacity: 0.3;
+  /* Set a specific height */
+  height: 800px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/*
+.column {
+  float: left;
+  width:31%;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.text{
+  color: #9E1030;
+}
+
+
+
+.row:after {
+  margin: 8px -16px;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h2 {
+  font-size: 25px;
+  word-break: break-all;
+}

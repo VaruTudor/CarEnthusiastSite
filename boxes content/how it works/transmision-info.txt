@@ -1,0 +1,6 @@
+How the transmission works
+In a front-engined rear-wheel-drive car, power is transmitted from the engine through the clutch and the gearbox to the rear axle by means of a tubular propeller shaft.
+
+
+The rear axle must be able to move up and down on the suspension according to variations of the road surface.
+

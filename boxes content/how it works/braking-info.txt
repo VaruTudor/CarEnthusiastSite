@@ -1,0 +1,8 @@
+How the braking system works
+Modern cars have brakes on all four wheels, operated by a hydraulic system. The brakes may be disc type or drum type.
+
+The front brakes play a greater part in stopping the car than the rear ones, because braking throws the car weight forward on to the front wheels.
+
+Many cars therefore have disc brakes, which are generally more efficient, at the front and drum brakes at the rear.
+
+All-disc braking systems are used on some expensive or high-performance cars, and all-drum systems on some older or smaller cars.

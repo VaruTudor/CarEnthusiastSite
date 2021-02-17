@@ -1,0 +1,19 @@
+How a car clutch works
+The first stage in the transmission of a car with a manual gearbox is the clutch.
+It transmits engine power to the gearbox, and allows transmission to be interrupted while a gear is selected to move off from a stationary position, or when gears are changed while the car is moving.
+Most cars use a friction clutch operated either by fluid (hydraulic) or, more commonly, by a cable.
+
+When a car is moving under power, the clutch is engaged. A pressure plate bolted to the flywheel exerts constant force, by means of a diaphragm spring, on the driven plate.
+
+Earlier cars have a series of coil springs at the back of the pressure plate, instead of a diaphragm spring.
+
+The driven (or friction) plate runs on a splined input shaft, through which the power is transmitted to the gearbox. The plate has friction linings, similar to brake linings, on both its faces. This allows the drive to be taken up smoothly when the clutch is engaged.
+
+When the clutch is disengaged (pedal depressed), an arm pushes a release bearing against the centre of the diaphragm spring which releases the clamping pressure.
+
+The outer part of the pressure plate, which has a large friction surface, then no longer clamps the driven plate to the flywheel, so the transmission of power is interrupted and gears can be changed.
+When the clutch pedal is released, the thrust bearing is withdrawn and the diaphragm-spring load once again clamps the driven plate to the flywheel to resume the transmission of power.
+
+Some cars have a hydraulically operated clutch. Pressure on the clutch pedal inside the car activates a piston in a master cylinder, which transmits the pressure through a fluid-filled pipe to a slave cylinder mounted on the clutch housing.
+
+The slave-cylinder piston is connected to the clutch release arm.
